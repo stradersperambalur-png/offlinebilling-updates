@@ -1,0 +1,12 @@
+{
+  "app_name": "OfflineBilling",
+  "latest_version": "1.0.1",
+  "minimum_supported_version": "1.0.0",
+  "release_channel": "stable",
+  "update_available": false,
+  "release_url": "https://github.com/stradersperambalur-png/offlinebilling-updates/releases",
+  "installer_url": "",
+  "installer_sha256": "",
+  "release_notes": "Initial update feed setup. No installer has been published yet.",
+  "updated_at": "2026-10-19"
+}
